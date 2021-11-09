@@ -10,6 +10,7 @@
 ![consul](https://img.shields.io/badge/-consul%20-%23ffffff?style=for-the-badge&logo=consul)
 ![vault](https://img.shields.io/badge/Vault%20-%23000000.svg?&style=for-the-badge&logo=vault&logoColor=white)
 ![docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
+![gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ### What I worked with:
 #### Languages: 
